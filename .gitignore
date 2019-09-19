@@ -1,0 +1,25 @@
+.idea
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+VENV/
+
+.venv7
+venv7/
+
+
+app/export.pkl
+
+
+# Ignore Mac DS_Store files
+.DS_Store
+
+# Ignore vscode files
+.vscode
+
+
