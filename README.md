@@ -1,4 +1,6 @@
-A bus name board classifier built using Fastai. It can identify bus name boards for the routes -'17D', '12G', '11H', '5E', '11G' 
+A bus name board classifier built using Fastai. It can identify bus name boards for the routes -'17D', '12G', '11H', '5E', '11G'. 
+
+The source code and data for this project is available at https://github.com/bhuvanakundumani/busboard_blog.git. 
 
 Test it out with the images available in the test_images folder.
 
